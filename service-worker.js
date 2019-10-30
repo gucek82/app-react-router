@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "git%20remote%20add%20origin%20https://github.com/gucek82/app-react-router.git/precache-manifest.36649eb2fb2165aba17b989744ac91ec.js"
+  "/gucek82/app-react-router.git/precache-manifest.7cee42030abb0bdb5d38053119317b29.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("git%20remote%20add%20origin%20https://github.com/gucek82/app-react-router.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/gucek82/app-react-router.git/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
