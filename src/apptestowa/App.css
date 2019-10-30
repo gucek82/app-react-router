@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
+
+nav {
+  background-color: black;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  flex-grow: 1;
+}
+
+a {
+  display: block;
+  text-align: center;
+  padding: 15px 25px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 4px solid black;
+  letter-spacing: 6px;
+}
+
+a:hover {
+  color: yellow;
+}
+
+section {
+  padding: 25px;
+  text-align: center;
+}
+
+.home_selected {
+  border-color: yellow;
+}
+
+.news_selected {
+  border-color: green;
+}
+
+.contact_selected {
+  border-color: red;
+}
