@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gucek82/app-react-router.git/static/css/main.ca8ec31a.chunk.css",
-    "main.js": "/gucek82/app-react-router.git/static/js/main.2440b21f.chunk.js",
-    "main.js.map": "/gucek82/app-react-router.git/static/js/main.2440b21f.chunk.js.map",
-    "runtime-main.js": "/gucek82/app-react-router.git/static/js/runtime-main.8902775b.js",
-    "runtime-main.js.map": "/gucek82/app-react-router.git/static/js/runtime-main.8902775b.js.map",
-    "static/js/2.e8d83c46.chunk.js": "/gucek82/app-react-router.git/static/js/2.e8d83c46.chunk.js",
-    "static/js/2.e8d83c46.chunk.js.map": "/gucek82/app-react-router.git/static/js/2.e8d83c46.chunk.js.map",
-    "index.html": "/gucek82/app-react-router.git/index.html",
-    "precache-manifest.7cee42030abb0bdb5d38053119317b29.js": "/gucek82/app-react-router.git/precache-manifest.7cee42030abb0bdb5d38053119317b29.js",
-    "service-worker.js": "/gucek82/app-react-router.git/service-worker.js",
-    "static/css/main.ca8ec31a.chunk.css.map": "/gucek82/app-react-router.git/static/css/main.ca8ec31a.chunk.css.map",
-    "static/media/header1.jpg": "/gucek82/app-react-router.git/static/media/header1.70e6670e.jpg",
-    "static/media/header2.jpg": "/gucek82/app-react-router.git/static/media/header2.33eca35f.jpg",
-    "static/media/header3.jpg": "/gucek82/app-react-router.git/static/media/header3.d9d36b65.jpg"
+    "main.css": "/app-react-router/static/css/main.ca8ec31a.chunk.css",
+    "main.js": "/app-react-router/static/js/main.2440b21f.chunk.js",
+    "main.js.map": "/app-react-router/static/js/main.2440b21f.chunk.js.map",
+    "runtime-main.js": "/app-react-router/static/js/runtime-main.098fe7f6.js",
+    "runtime-main.js.map": "/app-react-router/static/js/runtime-main.098fe7f6.js.map",
+    "static/js/2.e8d83c46.chunk.js": "/app-react-router/static/js/2.e8d83c46.chunk.js",
+    "static/js/2.e8d83c46.chunk.js.map": "/app-react-router/static/js/2.e8d83c46.chunk.js.map",
+    "index.html": "/app-react-router/index.html",
+    "precache-manifest.3eda5e5ef2b7923d9ea10f081afd985f.js": "/app-react-router/precache-manifest.3eda5e5ef2b7923d9ea10f081afd985f.js",
+    "service-worker.js": "/app-react-router/service-worker.js",
+    "static/css/main.ca8ec31a.chunk.css.map": "/app-react-router/static/css/main.ca8ec31a.chunk.css.map",
+    "static/media/header1.jpg": "/app-react-router/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/app-react-router/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/app-react-router/static/media/header3.d9d36b65.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8902775b.js",
+    "static/js/runtime-main.098fe7f6.js",
     "static/js/2.e8d83c46.chunk.js",
     "static/css/main.ca8ec31a.chunk.css",
     "static/js/main.2440b21f.chunk.js"
